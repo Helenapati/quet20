@@ -1,0 +1,17 @@
+public class Agenda Telefonica {
+    
+   //Agenda
+     public String nomes; 
+     public double numeros; 
+      System.out.println("Número de telefone:" + nomes + numeros); 
+      
+   //Contato
+   public String apelido/nome; 
+   public double numero do celuar; 
+      System.out.println("Contato:" + apelido/nome + numero do celular); 
+      
+      
+    
+    
+     
+}
